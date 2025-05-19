@@ -24,7 +24,7 @@ This document aims to be a comprehensive collection of TypeScript interview ques
 18. **What are optional properties in objects/interfaces (`propertyName?: type`)?**
 19. **What are readonly properties (`readonly propertyName: type`)?** How do they differ from `const`?
 
-## 인터페이스 & 타입 별칭 (Interfaces & Type Aliases)
+## 🖥️ (Interfaces & Type Aliases)
 
 1.  **What are interfaces in TypeScript?** How are they used to define the shape of an object?
 2.  **What are type aliases in TypeScript (`type Name = ...`)?** How can they be used?
@@ -110,7 +110,7 @@ _(Explain their purpose and provide examples for each)_
 10. **Explain parameter properties in constructors** (e.g., `constructor(private name: string)`).
 11. **How does `this` work in TypeScript classes, especially with methods and arrow functions within classes?**
 
-## Decorators
+## 📔 Decorators
 
 _(Note: Decorators are an experimental feature and their syntax/behavior might change. Current date: May 2025)_
 
