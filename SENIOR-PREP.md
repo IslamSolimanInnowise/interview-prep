@@ -979,5 +979,3 @@ Beyond senior-level questions, architect roles focus more on high-level design, 
 - What are your thoughts on build vs. buy decisions for core frontend infrastructure or tooling?
 - How do you manage dependencies and their potential risks (security, compatibility, obsolescence) at an architectural level?
 - Describe your process for conducting architectural reviews and providing constructive feedback.
-
-**Good luck with your interview preparation!** 🚀
